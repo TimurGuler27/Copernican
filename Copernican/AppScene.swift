@@ -2,7 +2,7 @@
 //  AppScene.swift
 //  Copernican
 //
-//  Created by Timur Guler on 1/20/17.
+//  Updated by Timur Guler on 4/4/19.
 //  Copyright © 2017 Timur Guler. All rights reserved.
 //
 
